@@ -1,0 +1,7 @@
+{
+  "model": "xgboost_fraud_model.json",
+  "threshold_config": "threshold_config.json",
+  "feature_schema": "feature_schema.json",
+  "training_metadata": "training_metadata.json",
+  "shap_background_sample": "shap_background_sample.csv"
+}
